@@ -46,7 +46,7 @@ public class ParkingService {
 		return parkingLevelList;
 	}
 
-	public List<ParkingSpot> parkVehicle(Vehicle vehicle) {
+	private List<ParkingSpot> parkVehicle(Vehicle vehicle) {
 
 		boolean parked = false;
 
@@ -83,7 +83,7 @@ public class ParkingService {
 		return null;
 	}
 
-	public List<ParkingSpot> unparkVehicle(String vehicleNumber) {
+	private List<ParkingSpot> unparkVehicle(String vehicleNumber) {
 
 		List<ParkingSpot> parkingSpotList = DataService.getVehiclewiseParkingDetail(vehicleNumber);
 

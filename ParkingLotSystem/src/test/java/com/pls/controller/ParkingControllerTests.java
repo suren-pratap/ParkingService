@@ -1,7 +1,5 @@
 package com.pls.controller;
 
-import static org.mockito.Mockito.when;
-
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
@@ -11,15 +9,14 @@ import org.apache.logging.log4j.Logger;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
-import org.mockito.Mock;
-import org.mockito.stubbing.Answer;
+import org.mockito.Mockito;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.boot.test.mock.mockito.MockBean;
 import org.springframework.test.context.junit4.SpringRunner;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.pls.exceptions.VehicleNotFoundException;
-import com.pls.model.Bike;
 import com.pls.model.Car;
 import com.pls.model.ParkingResponse;
 import com.pls.model.ParkingStatus;
@@ -31,26 +28,31 @@ import com.pls.service.VehicleInfoHelper;
 
 import junit.framework.Assert;
 
+@SuppressWarnings("deprecation")
 @RunWith(SpringRunner.class)
 @SpringBootTest(classes = { ParkingController.class, ParkingService.class, VehicleInfoHelper.class })
 public class ParkingControllerTests {
 
 	private static final Logger LOGGER = LogManager.getLogger(ParkingControllerTests.class);
 
-	private static Map<String, Vehicle> vehicleDetail = new HashMap<>();
 
 	private static ObjectMapper objectMapper = new ObjectMapper();
 
 	@Autowired
 	private ParkingService parkingService;
 
-	@Autowired
+	@MockBean
 	private VehicleInfoHelper vehicleInfoHelper;
 
 	@Test
 	public void parkVehicle() {
-
+		
+		Mockito.when(vehicleInfoHelper.getVehicleDetails("CAR-0001")).thenReturn(getVehicle("CAR-0001"));
+		Mockito.when(vehicleInfoHelper.getVehicleDetails("BIKE-0001")).thenReturn(getVehicle("BIKE-0001"));
 		try {
+			
+			Vehicle vehicle=vehicleInfoHelper.getVehicleDetails("CAR-0001");
+			Assert.assertEquals(VehicleType.CAR,vehicle.getVehicleType() );
 			String carkParkResponse = parkingService.park("CAR-0001");
 			String bikeParkResponse = parkingService.park("BIKE-0001");
 			Assert.assertNotNull(carkParkResponse);
@@ -63,13 +65,11 @@ public class ParkingControllerTests {
 				Assert.assertEquals(ParkingStatus.P, parkingResponse.getParkingStatus());
 				
 			} catch (IOException e) {
-				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
 
 			
 		} catch (VehicleNotFoundException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 
@@ -77,6 +77,13 @@ public class ParkingControllerTests {
 	}
 
 
+	private Vehicle getVehicle(String vehicleNumber) {
+			
+		return DataService.getVehicleInfoFromCache(vehicleNumber);
+	}
+
+
+	@SuppressWarnings("deprecation")
 	@Test
 	public void unParkVehicle() {
 
@@ -92,7 +99,6 @@ public class ParkingControllerTests {
 			Assert.assertEquals(ParkingStatus.UNP, parkingResponse.getParkingStatus());
 			
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 
