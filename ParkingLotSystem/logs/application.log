@@ -1,0 +1,1102 @@
+2019-02-18 00:33:07.496  INFO 15108 --- [main] c.pls.controller.ParkingControllerTests  : Starting ParkingControllerTests on WKWIN1612839 with PID 15108 (started by suryadav0 in D:\Assignment\ParkingLot\ParkingLotSystem)
+2019-02-18 00:33:07.509  INFO 15108 --- [main] c.pls.controller.ParkingControllerTests  : No active profile set, falling back to default profiles: default
+2019-02-18 00:33:07.839  INFO 15108 --- [main] c.pls.controller.ParkingControllerTests  : Started ParkingControllerTests in 0.743 seconds (JVM running for 1.586)
+2019-02-18 00:33:08.242  INFO 15108 --- [main] c.pls.controller.ParkingControllerTests  : Vehicle details: {CAR-0001=Car [number=CAR-0001, vehicleType=CAR, color=Blue, name=Maruti Swift]}
+2019-02-18 00:34:14.256  INFO 10732 --- [main] c.pls.controller.ParkingControllerTests  : Starting ParkingControllerTests on WKWIN1612839 with PID 10732 (started by suryadav0 in D:\Assignment\ParkingLot\ParkingLotSystem)
+2019-02-18 00:34:14.258  INFO 10732 --- [main] c.pls.controller.ParkingControllerTests  : No active profile set, falling back to default profiles: default
+2019-02-18 00:34:14.574  INFO 10732 --- [main] c.pls.controller.ParkingControllerTests  : Started ParkingControllerTests in 0.723 seconds (JVM running for 1.931)
+2019-02-18 00:34:20.151  INFO 10732 --- [main] c.pls.controller.ParkingControllerTests  : Vehicle details: {CAR-0001=Car [number=CAR-0001, vehicleType=CAR, color=Blue, name=Maruti Swift]}
+2019-02-18 00:34:46.452  INFO 19164 --- [main] c.pls.controller.ParkingControllerTests  : Starting ParkingControllerTests on WKWIN1612839 with PID 19164 (started by suryadav0 in D:\Assignment\ParkingLot\ParkingLotSystem)
+2019-02-18 00:34:46.456  INFO 19164 --- [main] c.pls.controller.ParkingControllerTests  : No active profile set, falling back to default profiles: default
+2019-02-18 00:34:46.851  INFO 19164 --- [main] c.pls.controller.ParkingControllerTests  : Started ParkingControllerTests in 0.848 seconds (JVM running for 2.012)
+2019-02-18 00:34:52.941  INFO 19164 --- [main] c.pls.controller.ParkingControllerTests  : Vehicle details: {CAR-0001=Car [number=CAR-0001, vehicleType=CAR, color=Blue, name=Maruti Swift]}
+2019-02-18 00:35:01.472  INFO 15288 --- [main] c.pls.controller.ParkingControllerTests  : Starting ParkingControllerTests on WKWIN1612839 with PID 15288 (started by suryadav0 in D:\Assignment\ParkingLot\ParkingLotSystem)
+2019-02-18 00:35:01.472  INFO 15288 --- [main] c.pls.controller.ParkingControllerTests  : No active profile set, falling back to default profiles: default
+2019-02-18 00:35:01.889  INFO 15288 --- [main] c.pls.controller.ParkingControllerTests  : Started ParkingControllerTests in 0.795 seconds (JVM running for 2.017)
+2019-02-18 00:35:09.445  INFO 15288 --- [main] c.pls.controller.ParkingControllerTests  : Vehicle details: {CAR-0001=Car [number=CAR-0001, vehicleType=CAR, color=Blue, name=Maruti Swift]}
+2019-02-18 00:38:19.682  INFO 11512 --- [main] c.pls.controller.ParkingControllerTests  : Starting ParkingControllerTests on WKWIN1612839 with PID 11512 (started by suryadav0 in D:\Assignment\ParkingLot\ParkingLotSystem)
+2019-02-18 00:38:19.684  INFO 11512 --- [main] c.pls.controller.ParkingControllerTests  : No active profile set, falling back to default profiles: default
+2019-02-18 00:38:19.995  INFO 11512 --- [main] c.pls.controller.ParkingControllerTests  : Started ParkingControllerTests in 0.69 seconds (JVM running for 1.698)
+2019-02-18 00:38:25.153  INFO 11512 --- [main] c.pls.controller.ParkingControllerTests  : Vehicle details: {CAR-0001=Car [number=CAR-0001, vehicleType=CAR, color=Blue, name=Maruti Swift]}
+2019-02-18 00:39:39.889  INFO 7216 --- [main] c.pls.controller.ParkingControllerTests  : Starting ParkingControllerTests on WKWIN1612839 with PID 7216 (started by suryadav0 in D:\Assignment\ParkingLot\ParkingLotSystem)
+2019-02-18 00:39:39.891  INFO 7216 --- [main] c.pls.controller.ParkingControllerTests  : No active profile set, falling back to default profiles: default
+2019-02-18 00:39:40.282  INFO 7216 --- [main] c.pls.controller.ParkingControllerTests  : Started ParkingControllerTests in 0.798 seconds (JVM running for 1.929)
+2019-02-18 00:39:47.873  INFO 7216 --- [main] c.pls.controller.ParkingControllerTests  : Vehicle details: {CAR-0001=Car [number=CAR-0001, vehicleType=CAR, color=Blue, name=Maruti Swift]}
+2019-02-18 00:40:11.349  INFO 13204 --- [main] c.pls.controller.ParkingControllerTests  : Starting ParkingControllerTests on WKWIN1612839 with PID 13204 (started by suryadav0 in D:\Assignment\ParkingLot\ParkingLotSystem)
+2019-02-18 00:40:11.350  INFO 13204 --- [main] c.pls.controller.ParkingControllerTests  : No active profile set, falling back to default profiles: default
+2019-02-18 00:40:11.758  INFO 13204 --- [main] c.pls.controller.ParkingControllerTests  : Started ParkingControllerTests in 0.724 seconds (JVM running for 1.538)
+2019-02-18 00:40:12.606  INFO 13204 --- [main] c.pls.controller.ParkingControllerTests  : Vehicle details: {CAR-0001=Car [number=CAR-0001, vehicleType=CAR, color=Blue, name=Maruti Swift]}
+2019-02-18 00:40:46.453  INFO 2892 --- [main] c.pls.controller.ParkingControllerTests  : Starting ParkingControllerTests on WKWIN1612839 with PID 2892 (started by suryadav0 in D:\Assignment\ParkingLot\ParkingLotSystem)
+2019-02-18 00:40:46.454  INFO 2892 --- [main] c.pls.controller.ParkingControllerTests  : No active profile set, falling back to default profiles: default
+2019-02-18 00:40:46.673  INFO 2892 --- [main] c.pls.controller.ParkingControllerTests  : Started ParkingControllerTests in 0.569 seconds (JVM running for 1.355)
+2019-02-18 00:40:47.430  INFO 2892 --- [main] c.pls.controller.ParkingControllerTests  : Vehicle details: {CAR-0001=Car [number=CAR-0001, vehicleType=CAR, color=Blue, name=Maruti Swift]}
+2019-02-18 00:42:12.082  INFO 16408 --- [main] c.pls.controller.ParkingControllerTests  : Starting ParkingControllerTests on WKWIN1612839 with PID 16408 (started by suryadav0 in D:\Assignment\ParkingLot\ParkingLotSystem)
+2019-02-18 00:42:12.084  INFO 16408 --- [main] c.pls.controller.ParkingControllerTests  : No active profile set, falling back to default profiles: default
+2019-02-18 00:42:12.400  INFO 16408 --- [main] c.pls.controller.ParkingControllerTests  : Started ParkingControllerTests in 0.754 seconds (JVM running for 1.597)
+2019-02-18 00:42:13.120  INFO 16408 --- [main] c.pls.controller.ParkingControllerTests  : Vehicle details: {CAR-0001=Car [number=CAR-0001, vehicleType=CAR, color=Blue, name=Maruti Swift]}
+2019-02-18 10:27:34.342  INFO 15036 --- [main] c.p.a.ParkingServiceApplication          : Starting ParkingServiceApplication on WKWIN1612839 with PID 15036 (D:\Assignment\ParkingLot\ParkingLotSystem\target\classes started by suryadav0 in D:\Assignment\ParkingLot\ParkingLotSystem)
+2019-02-18 10:27:34.344  INFO 15036 --- [main] c.p.a.ParkingServiceApplication          : No active profile set, falling back to default profiles: default
+2019-02-18 10:27:35.330  INFO 15036 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-02-18 10:27:35.330  INFO 15036 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-02-18 10:27:35.363  INFO 15036 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 12ms. Found 0 repository interfaces.
+2019-02-18 10:27:36.273  INFO 15036 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-18 10:27:36.313  INFO 15036 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-18 10:27:36.313  INFO 15036 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-18 10:27:36.331  INFO 15036 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_181\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_181/bin/server;C:/Program Files/Java/jre1.8.0_181/bin;C:/Program Files/Java/jre1.8.0_181/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Brackets\command;C:\ProgramData\chocolatey\bin;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_161\bin;C:\Program Files\Apache\maven\apache-maven-3.5.3\bin;C:\Gradle\gradle-4.8\bin;C:\Spark\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Users\syad50\AppData\Local\atom\bin;C:\Users\syad50\AppData\Roaming\npm;C:\Users\syad50\Desktop;;.]
+2019-02-18 10:27:36.459  INFO 15036 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-18 10:27:36.459  INFO 15036 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2037 ms
+2019-02-18 10:27:37.023  INFO 15036 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-18 10:27:37.679  INFO 15036 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-18 10:27:37.679  INFO 15036 --- [main] c.p.a.ParkingServiceApplication          : Started ParkingServiceApplication in 3.782 seconds (JVM running for 4.247)
+2019-02-18 10:27:37.679  INFO 15036 --- [main] c.p.a.ParkingServiceApplication          : App Started
+2019-02-18 10:28:49.146  INFO 18268 --- [main] c.p.a.ParkingServiceApplication          : Starting ParkingServiceApplication on WKWIN1612839 with PID 18268 (D:\Assignment\ParkingLot\ParkingLotSystem\target\classes started by suryadav0 in D:\Assignment\ParkingLot\ParkingLotSystem)
+2019-02-18 10:28:49.150  INFO 18268 --- [main] c.p.a.ParkingServiceApplication          : No active profile set, falling back to default profiles: default
+2019-02-18 10:28:50.147  INFO 18268 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-02-18 10:28:50.147  INFO 18268 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-02-18 10:28:50.177  INFO 18268 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 10ms. Found 0 repository interfaces.
+2019-02-18 10:28:51.148  INFO 18268 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-18 10:28:51.178  INFO 18268 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-18 10:28:51.178  INFO 18268 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-18 10:28:51.188  INFO 18268 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_181\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_181/bin/server;C:/Program Files/Java/jre1.8.0_181/bin;C:/Program Files/Java/jre1.8.0_181/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Brackets\command;C:\ProgramData\chocolatey\bin;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_161\bin;C:\Program Files\Apache\maven\apache-maven-3.5.3\bin;C:\Gradle\gradle-4.8\bin;C:\Spark\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Users\syad50\AppData\Local\atom\bin;C:\Users\syad50\AppData\Roaming\npm;C:\Users\syad50\Desktop;;.]
+2019-02-18 10:28:51.383  INFO 18268 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-18 10:28:51.383  INFO 18268 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2148 ms
+2019-02-18 10:28:51.967  INFO 18268 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-18 10:28:52.579 ERROR 18268 --- [main] org.apache.catalina.util.LifecycleBase   : Failed to start component [Connector[HTTP/1.1-8080]]
+
+org.apache.catalina.LifecycleException: Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1008) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:226) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.addPreviouslyRemovedConnectors(TomcatWebServer.java:259) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:197) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.startWebServer(ServletWebServerApplicationContext.java:311) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:164) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:552) [spring-context-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at com.pls.application.ParkingServiceApplication.main(ParkingServiceApplication.java:21) [classes/:na]
+Caused by: java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method) ~[na:1.8.0_181]
+	at sun.nio.ch.Net.bind(Unknown Source) ~[na:1.8.0_181]
+	at sun.nio.ch.Net.bind(Unknown Source) ~[na:1.8.0_181]
+	at sun.nio.ch.ServerSocketChannelImpl.bind(Unknown Source) ~[na:1.8.0_181]
+	at sun.nio.ch.ServerSocketAdaptor.bind(Unknown Source) ~[na:1.8.0_181]
+	at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:236) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1085) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:1171) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:568) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1005) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	... 14 common frames omitted
+
+2019-02-18 10:28:52.579  INFO 18268 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2019-02-18 10:28:52.658  INFO 18268 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-02-18 10:28:52.658 ERROR 18268 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The Tomcat connector configured to listen on port 8080 failed to start. The port may already be in use or the connector may be misconfigured.
+
+Action:
+
+Verify the connector's configuration, identify and stop any process that's listening on port 8080, or configure this application to listen on another port.
+
+2019-02-18 10:28:52.678  INFO 18268 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-02-18 10:29:08.233  INFO 5928 --- [main] c.p.a.ParkingServiceApplication          : Starting ParkingServiceApplication on WKWIN1612839 with PID 5928 (D:\Assignment\ParkingLot\ParkingLotSystem\target\classes started by suryadav0 in D:\Assignment\ParkingLot\ParkingLotSystem)
+2019-02-18 10:29:08.236  INFO 5928 --- [main] c.p.a.ParkingServiceApplication          : No active profile set, falling back to default profiles: default
+2019-02-18 10:29:09.098  INFO 5928 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-02-18 10:29:09.108  INFO 5928 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-02-18 10:29:09.133  INFO 5928 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 15ms. Found 0 repository interfaces.
+2019-02-18 10:29:10.068  INFO 5928 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-18 10:29:10.109  INFO 5928 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-18 10:29:10.109  INFO 5928 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-18 10:29:10.121  INFO 5928 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_181\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_181/bin/server;C:/Program Files/Java/jre1.8.0_181/bin;C:/Program Files/Java/jre1.8.0_181/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Brackets\command;C:\ProgramData\chocolatey\bin;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_161\bin;C:\Program Files\Apache\maven\apache-maven-3.5.3\bin;C:\Gradle\gradle-4.8\bin;C:\Spark\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Users\syad50\AppData\Local\atom\bin;C:\Users\syad50\AppData\Roaming\npm;C:\Users\syad50\Desktop;;.]
+2019-02-18 10:29:10.256  INFO 5928 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-18 10:29:10.256  INFO 5928 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1953 ms
+2019-02-18 10:29:10.817  INFO 5928 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-18 10:29:11.422  INFO 5928 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-18 10:29:11.422  INFO 5928 --- [main] c.p.a.ParkingServiceApplication          : Started ParkingServiceApplication in 3.645 seconds (JVM running for 4.228)
+2019-02-18 10:29:11.432  INFO 5928 --- [main] c.p.a.ParkingServiceApplication          : App Started
+2019-02-18 10:29:52.370  INFO 15852 --- [main] c.p.a.ParkingServiceApplication          : Starting ParkingServiceApplication on WKWIN1612839 with PID 15852 (D:\Assignment\ParkingLot\ParkingLotSystem\target\classes started by suryadav0 in D:\Assignment\ParkingLot\ParkingLotSystem)
+2019-02-18 10:29:52.373  INFO 15852 --- [main] c.p.a.ParkingServiceApplication          : No active profile set, falling back to default profiles: default
+2019-02-18 10:29:53.356  INFO 15852 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-02-18 10:29:53.359  INFO 15852 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-02-18 10:29:53.386  INFO 15852 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 12ms. Found 0 repository interfaces.
+2019-02-18 10:29:54.294  INFO 15852 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-18 10:29:54.332  INFO 15852 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-18 10:29:54.332  INFO 15852 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-18 10:29:54.345  INFO 15852 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_181\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_181/bin/server;C:/Program Files/Java/jre1.8.0_181/bin;C:/Program Files/Java/jre1.8.0_181/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Brackets\command;C:\ProgramData\chocolatey\bin;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_161\bin;C:\Program Files\Apache\maven\apache-maven-3.5.3\bin;C:\Gradle\gradle-4.8\bin;C:\Spark\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Users\syad50\AppData\Local\atom\bin;C:\Users\syad50\AppData\Roaming\npm;C:\Users\syad50\Desktop;;.]
+2019-02-18 10:29:54.500  INFO 15852 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-18 10:29:54.500  INFO 15852 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2000 ms
+2019-02-18 10:29:54.980  INFO 15852 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-18 10:29:55.661 ERROR 15852 --- [main] org.apache.catalina.util.LifecycleBase   : Failed to start component [Connector[HTTP/1.1-8080]]
+
+org.apache.catalina.LifecycleException: Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1008) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:226) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.addPreviouslyRemovedConnectors(TomcatWebServer.java:259) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:197) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.startWebServer(ServletWebServerApplicationContext.java:311) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:164) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:552) [spring-context-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at com.pls.application.ParkingServiceApplication.main(ParkingServiceApplication.java:21) [classes/:na]
+Caused by: java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method) ~[na:1.8.0_181]
+	at sun.nio.ch.Net.bind(Unknown Source) ~[na:1.8.0_181]
+	at sun.nio.ch.Net.bind(Unknown Source) ~[na:1.8.0_181]
+	at sun.nio.ch.ServerSocketChannelImpl.bind(Unknown Source) ~[na:1.8.0_181]
+	at sun.nio.ch.ServerSocketAdaptor.bind(Unknown Source) ~[na:1.8.0_181]
+	at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:236) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1085) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:1171) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:568) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1005) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	... 14 common frames omitted
+
+2019-02-18 10:29:55.671  INFO 15852 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2019-02-18 10:29:55.681  INFO 15852 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-02-18 10:29:55.681 ERROR 15852 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The Tomcat connector configured to listen on port 8080 failed to start. The port may already be in use or the connector may be misconfigured.
+
+Action:
+
+Verify the connector's configuration, identify and stop any process that's listening on port 8080, or configure this application to listen on another port.
+
+2019-02-18 10:29:55.702  INFO 15852 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-02-18 10:30:06.722  INFO 14684 --- [main] c.p.a.ParkingServiceApplication          : Starting ParkingServiceApplication on WKWIN1612839 with PID 14684 (D:\Assignment\ParkingLot\ParkingLotSystem\target\classes started by suryadav0 in D:\Assignment\ParkingLot\ParkingLotSystem)
+2019-02-18 10:30:06.726  INFO 14684 --- [main] c.p.a.ParkingServiceApplication          : No active profile set, falling back to default profiles: default
+2019-02-18 10:30:07.693  INFO 14684 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-02-18 10:30:07.693  INFO 14684 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-02-18 10:30:07.723  INFO 14684 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 20ms. Found 0 repository interfaces.
+2019-02-18 10:30:09.005  INFO 14684 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-18 10:30:09.040  INFO 14684 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-18 10:30:09.040  INFO 14684 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-18 10:30:09.051  INFO 14684 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_181\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_181/bin/server;C:/Program Files/Java/jre1.8.0_181/bin;C:/Program Files/Java/jre1.8.0_181/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Brackets\command;C:\ProgramData\chocolatey\bin;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_161\bin;C:\Program Files\Apache\maven\apache-maven-3.5.3\bin;C:\Gradle\gradle-4.8\bin;C:\Spark\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Users\syad50\AppData\Local\atom\bin;C:\Users\syad50\AppData\Roaming\npm;C:\Users\syad50\Desktop;;.]
+2019-02-18 10:30:09.201  INFO 14684 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-18 10:30:09.201  INFO 14684 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2386 ms
+2019-02-18 10:30:09.673  INFO 14684 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-18 10:30:10.280  INFO 14684 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-18 10:30:10.280  INFO 14684 --- [main] c.p.a.ParkingServiceApplication          : Started ParkingServiceApplication in 3.998 seconds (JVM running for 4.53)
+2019-02-18 10:30:10.280  INFO 14684 --- [main] c.p.a.ParkingServiceApplication          : App Started
+2019-02-18 10:31:17.542  INFO 17864 --- [main] c.p.a.ParkingServiceApplication          : Starting ParkingServiceApplication on WKWIN1612839 with PID 17864 (D:\Assignment\ParkingLot\ParkingLotSystem\target\classes started by suryadav0 in D:\Assignment\ParkingLot\ParkingLotSystem)
+2019-02-18 10:31:17.547  INFO 17864 --- [main] c.p.a.ParkingServiceApplication          : No active profile set, falling back to default profiles: default
+2019-02-18 10:31:18.459  INFO 17864 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-02-18 10:31:18.459  INFO 17864 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-02-18 10:31:18.490  INFO 17864 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 21ms. Found 0 repository interfaces.
+2019-02-18 10:31:19.505  INFO 17864 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-18 10:31:19.539  INFO 17864 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-18 10:31:19.539  INFO 17864 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-18 10:31:19.549  INFO 17864 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_181\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_181/bin/server;C:/Program Files/Java/jre1.8.0_181/bin;C:/Program Files/Java/jre1.8.0_181/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Brackets\command;C:\ProgramData\chocolatey\bin;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_161\bin;C:\Program Files\Apache\maven\apache-maven-3.5.3\bin;C:\Gradle\gradle-4.8\bin;C:\Spark\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Users\syad50\AppData\Local\atom\bin;C:\Users\syad50\AppData\Roaming\npm;C:\Users\syad50\Desktop;;.]
+2019-02-18 10:31:19.724  INFO 17864 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-18 10:31:19.724  INFO 17864 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2042 ms
+2019-02-18 10:31:20.290  INFO 17864 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-18 10:31:20.862 ERROR 17864 --- [main] org.apache.catalina.util.LifecycleBase   : Failed to start component [Connector[HTTP/1.1-8080]]
+
+org.apache.catalina.LifecycleException: Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1008) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:226) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.addPreviouslyRemovedConnectors(TomcatWebServer.java:259) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:197) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.startWebServer(ServletWebServerApplicationContext.java:311) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:164) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:552) [spring-context-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at com.pls.application.ParkingServiceApplication.main(ParkingServiceApplication.java:23) [classes/:na]
+Caused by: java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method) ~[na:1.8.0_181]
+	at sun.nio.ch.Net.bind(Unknown Source) ~[na:1.8.0_181]
+	at sun.nio.ch.Net.bind(Unknown Source) ~[na:1.8.0_181]
+	at sun.nio.ch.ServerSocketChannelImpl.bind(Unknown Source) ~[na:1.8.0_181]
+	at sun.nio.ch.ServerSocketAdaptor.bind(Unknown Source) ~[na:1.8.0_181]
+	at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:236) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1085) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:1171) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:568) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1005) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	... 14 common frames omitted
+
+2019-02-18 10:31:20.872  INFO 17864 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2019-02-18 10:31:20.882  INFO 17864 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-02-18 10:31:20.882 ERROR 17864 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The Tomcat connector configured to listen on port 8080 failed to start. The port may already be in use or the connector may be misconfigured.
+
+Action:
+
+Verify the connector's configuration, identify and stop any process that's listening on port 8080, or configure this application to listen on another port.
+
+2019-02-18 10:31:20.892  INFO 17864 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-02-18 10:31:29.461  INFO 14708 --- [main] c.p.a.ParkingServiceApplication          : Starting ParkingServiceApplication on WKWIN1612839 with PID 14708 (D:\Assignment\ParkingLot\ParkingLotSystem\target\classes started by suryadav0 in D:\Assignment\ParkingLot\ParkingLotSystem)
+2019-02-18 10:31:29.466  INFO 14708 --- [main] c.p.a.ParkingServiceApplication          : No active profile set, falling back to default profiles: default
+2019-02-18 10:31:30.465  INFO 14708 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-02-18 10:31:30.475  INFO 14708 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-02-18 10:31:30.505  INFO 14708 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 20ms. Found 0 repository interfaces.
+2019-02-18 10:31:31.459  INFO 14708 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-18 10:31:31.500  INFO 14708 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-18 10:31:31.500  INFO 14708 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-18 10:31:31.510  INFO 14708 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_181\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_181/bin/server;C:/Program Files/Java/jre1.8.0_181/bin;C:/Program Files/Java/jre1.8.0_181/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Brackets\command;C:\ProgramData\chocolatey\bin;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_161\bin;C:\Program Files\Apache\maven\apache-maven-3.5.3\bin;C:\Gradle\gradle-4.8\bin;C:\Spark\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Users\syad50\AppData\Local\atom\bin;C:\Users\syad50\AppData\Roaming\npm;C:\Users\syad50\Desktop;;.]
+2019-02-18 10:31:31.653  INFO 14708 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-18 10:31:31.653  INFO 14708 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2077 ms
+2019-02-18 10:31:32.132  INFO 14708 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-18 10:31:32.754  INFO 14708 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-18 10:31:32.764  INFO 14708 --- [main] c.p.a.ParkingServiceApplication          : Started ParkingServiceApplication in 3.762 seconds (JVM running for 4.225)
+2019-02-18 10:31:32.764  INFO 14708 --- [main] c.p.a.ParkingServiceApplication          : App Started
+2019-02-18 10:33:37.547  INFO 15132 --- [main] c.p.a.ParkingServiceApplication          : Starting ParkingServiceApplication on WKWIN1612839 with PID 15132 (D:\Assignment\ParkingLot\ParkingLotSystem\target\classes started by suryadav0 in D:\Assignment\ParkingLot\ParkingLotSystem)
+2019-02-18 10:33:37.550  INFO 15132 --- [main] c.p.a.ParkingServiceApplication          : No active profile set, falling back to default profiles: default
+2019-02-18 10:33:38.469  INFO 15132 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-02-18 10:33:38.469  INFO 15132 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-02-18 10:33:38.499  INFO 15132 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 10ms. Found 0 repository interfaces.
+2019-02-18 10:33:39.457  INFO 15132 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-18 10:33:39.483  INFO 15132 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-18 10:33:39.483  INFO 15132 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-18 10:33:39.493  INFO 15132 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_181\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_181/bin/server;C:/Program Files/Java/jre1.8.0_181/bin;C:/Program Files/Java/jre1.8.0_181/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Brackets\command;C:\ProgramData\chocolatey\bin;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_161\bin;C:\Program Files\Apache\maven\apache-maven-3.5.3\bin;C:\Gradle\gradle-4.8\bin;C:\Spark\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Users\syad50\AppData\Local\atom\bin;C:\Users\syad50\AppData\Roaming\npm;C:\Users\syad50\Desktop;;.]
+2019-02-18 10:33:39.638  INFO 15132 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-18 10:33:39.638  INFO 15132 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2008 ms
+2019-02-18 10:33:40.138  INFO 15132 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-18 10:33:40.732 ERROR 15132 --- [main] org.apache.catalina.util.LifecycleBase   : Failed to start component [Connector[HTTP/1.1-8080]]
+
+org.apache.catalina.LifecycleException: Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1008) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:226) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.addPreviouslyRemovedConnectors(TomcatWebServer.java:259) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:197) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.startWebServer(ServletWebServerApplicationContext.java:311) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:164) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:552) [spring-context-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at com.pls.application.ParkingServiceApplication.main(ParkingServiceApplication.java:24) [classes/:na]
+Caused by: java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method) ~[na:1.8.0_181]
+	at sun.nio.ch.Net.bind(Unknown Source) ~[na:1.8.0_181]
+	at sun.nio.ch.Net.bind(Unknown Source) ~[na:1.8.0_181]
+	at sun.nio.ch.ServerSocketChannelImpl.bind(Unknown Source) ~[na:1.8.0_181]
+	at sun.nio.ch.ServerSocketAdaptor.bind(Unknown Source) ~[na:1.8.0_181]
+	at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:236) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1085) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:1171) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:568) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1005) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	... 14 common frames omitted
+
+2019-02-18 10:33:40.732  INFO 15132 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2019-02-18 10:33:40.742  INFO 15132 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-02-18 10:33:40.752 ERROR 15132 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The Tomcat connector configured to listen on port 8080 failed to start. The port may already be in use or the connector may be misconfigured.
+
+Action:
+
+Verify the connector's configuration, identify and stop any process that's listening on port 8080, or configure this application to listen on another port.
+
+2019-02-18 10:33:40.765  INFO 15132 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-02-18 10:33:50.573  INFO 16024 --- [main] c.p.a.ParkingServiceApplication          : Starting ParkingServiceApplication on WKWIN1612839 with PID 16024 (D:\Assignment\ParkingLot\ParkingLotSystem\target\classes started by suryadav0 in D:\Assignment\ParkingLot\ParkingLotSystem)
+2019-02-18 10:33:50.577  INFO 16024 --- [main] c.p.a.ParkingServiceApplication          : No active profile set, falling back to default profiles: default
+2019-02-18 10:33:51.449  INFO 16024 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-02-18 10:33:51.449  INFO 16024 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-02-18 10:33:51.470  INFO 16024 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 11ms. Found 0 repository interfaces.
+2019-02-18 10:33:52.420  INFO 16024 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-18 10:33:52.450  INFO 16024 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-18 10:33:52.450  INFO 16024 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-18 10:33:52.460  INFO 16024 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_181\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_181/bin/server;C:/Program Files/Java/jre1.8.0_181/bin;C:/Program Files/Java/jre1.8.0_181/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Brackets\command;C:\ProgramData\chocolatey\bin;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_161\bin;C:\Program Files\Apache\maven\apache-maven-3.5.3\bin;C:\Gradle\gradle-4.8\bin;C:\Spark\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Users\syad50\AppData\Local\atom\bin;C:\Users\syad50\AppData\Roaming\npm;C:\Users\syad50\Desktop;;.]
+2019-02-18 10:33:52.581  INFO 16024 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-18 10:33:52.581  INFO 16024 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1929 ms
+2019-02-18 10:33:53.193  INFO 16024 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-18 10:33:53.847  INFO 16024 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-18 10:33:53.847  INFO 16024 --- [main] c.p.a.ParkingServiceApplication          : Started ParkingServiceApplication in 3.722 seconds (JVM running for 4.198)
+2019-02-18 10:33:53.847  INFO 16024 --- [main] c.p.a.ParkingServiceApplication          : App Started
+2019-02-18 10:37:15.073  INFO 18140 --- [main] c.p.a.ParkingServiceApplication          : Starting ParkingServiceApplication on WKWIN1612839 with PID 18140 (D:\Assignment\ParkingLot\ParkingLotSystem\target\classes started by suryadav0 in D:\Assignment\ParkingLot\ParkingLotSystem)
+2019-02-18 10:37:15.073  INFO 18140 --- [main] c.p.a.ParkingServiceApplication          : No active profile set, falling back to default profiles: default
+2019-02-18 10:37:15.960  INFO 18140 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-02-18 10:37:15.963  INFO 18140 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-02-18 10:37:15.988  INFO 18140 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 10ms. Found 0 repository interfaces.
+2019-02-18 10:37:16.953  INFO 18140 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-18 10:37:16.991  INFO 18140 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-18 10:37:16.991  INFO 18140 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-18 10:37:17.001  INFO 18140 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_181\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_181/bin/server;C:/Program Files/Java/jre1.8.0_181/bin;C:/Program Files/Java/jre1.8.0_181/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Brackets\command;C:\ProgramData\chocolatey\bin;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_161\bin;C:\Program Files\Apache\maven\apache-maven-3.5.3\bin;C:\Gradle\gradle-4.8\bin;C:\Spark\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Users\syad50\AppData\Local\atom\bin;C:\Users\syad50\AppData\Roaming\npm;C:\Users\syad50\Desktop;;.]
+2019-02-18 10:37:17.132  INFO 18140 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-18 10:37:17.132  INFO 18140 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1980 ms
+2019-02-18 10:37:17.192  INFO 18140 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : Autowired annotation is not supported on static fields: private static com.pls.service.ParkingService com.pls.application.ParkingServiceApplication.parkingService
+2019-02-18 10:37:17.664  INFO 18140 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-18 10:37:18.189 ERROR 18140 --- [main] org.apache.catalina.util.LifecycleBase   : Failed to start component [Connector[HTTP/1.1-8080]]
+
+org.apache.catalina.LifecycleException: Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1008) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:226) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.addPreviouslyRemovedConnectors(TomcatWebServer.java:259) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:197) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.startWebServer(ServletWebServerApplicationContext.java:311) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:164) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:552) [spring-context-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at com.pls.application.ParkingServiceApplication.main(ParkingServiceApplication.java:25) [classes/:na]
+Caused by: java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method) ~[na:1.8.0_181]
+	at sun.nio.ch.Net.bind(Unknown Source) ~[na:1.8.0_181]
+	at sun.nio.ch.Net.bind(Unknown Source) ~[na:1.8.0_181]
+	at sun.nio.ch.ServerSocketChannelImpl.bind(Unknown Source) ~[na:1.8.0_181]
+	at sun.nio.ch.ServerSocketAdaptor.bind(Unknown Source) ~[na:1.8.0_181]
+	at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:236) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1085) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:1171) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:568) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1005) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	... 14 common frames omitted
+
+2019-02-18 10:37:18.192  INFO 18140 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2019-02-18 10:37:18.202  INFO 18140 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-02-18 10:37:18.202 ERROR 18140 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The Tomcat connector configured to listen on port 8080 failed to start. The port may already be in use or the connector may be misconfigured.
+
+Action:
+
+Verify the connector's configuration, identify and stop any process that's listening on port 8080, or configure this application to listen on another port.
+
+2019-02-18 10:37:18.223  INFO 18140 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-02-18 10:37:27.058  INFO 12852 --- [main] c.p.a.ParkingServiceApplication          : Starting ParkingServiceApplication on WKWIN1612839 with PID 12852 (D:\Assignment\ParkingLot\ParkingLotSystem\target\classes started by suryadav0 in D:\Assignment\ParkingLot\ParkingLotSystem)
+2019-02-18 10:37:27.062  INFO 12852 --- [main] c.p.a.ParkingServiceApplication          : No active profile set, falling back to default profiles: default
+2019-02-18 10:37:27.903  INFO 12852 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-02-18 10:37:27.905  INFO 12852 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-02-18 10:37:27.935  INFO 12852 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 20ms. Found 0 repository interfaces.
+2019-02-18 10:37:28.827  INFO 12852 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-18 10:37:28.858  INFO 12852 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-18 10:37:28.858  INFO 12852 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-18 10:37:28.878  INFO 12852 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_181\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_181/bin/server;C:/Program Files/Java/jre1.8.0_181/bin;C:/Program Files/Java/jre1.8.0_181/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Brackets\command;C:\ProgramData\chocolatey\bin;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_161\bin;C:\Program Files\Apache\maven\apache-maven-3.5.3\bin;C:\Gradle\gradle-4.8\bin;C:\Spark\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Users\syad50\AppData\Local\atom\bin;C:\Users\syad50\AppData\Roaming\npm;C:\Users\syad50\Desktop;;.]
+2019-02-18 10:37:29.013  INFO 12852 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-18 10:37:29.013  INFO 12852 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1884 ms
+2019-02-18 10:37:29.083  INFO 12852 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : Autowired annotation is not supported on static fields: private static com.pls.service.ParkingService com.pls.application.ParkingServiceApplication.parkingService
+2019-02-18 10:37:29.554  INFO 12852 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-18 10:37:30.156  INFO 12852 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-18 10:37:30.158  INFO 12852 --- [main] c.p.a.ParkingServiceApplication          : Started ParkingServiceApplication in 3.563 seconds (JVM running for 4.075)
+2019-02-18 10:37:30.158  INFO 12852 --- [main] c.p.a.ParkingServiceApplication          : App Started
+2019-02-18 10:47:45.061  INFO 18704 --- [main] c.p.a.ParkingServiceApplication          : Starting ParkingServiceApplication on WKWIN1612839 with PID 18704 (D:\Assignment\ParkingLot\ParkingLotSystem\target\classes started by suryadav0 in D:\Assignment\ParkingLot\ParkingLotSystem)
+2019-02-18 10:47:45.110  INFO 18704 --- [main] c.p.a.ParkingServiceApplication          : No active profile set, falling back to default profiles: default
+2019-02-18 10:47:46.058  INFO 18704 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-02-18 10:47:46.058  INFO 18704 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-02-18 10:47:46.095  INFO 18704 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 16ms. Found 0 repository interfaces.
+2019-02-18 10:47:47.079  INFO 18704 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-18 10:47:47.120  INFO 18704 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-18 10:47:47.120  INFO 18704 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-18 10:47:47.125  INFO 18704 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_181\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_181/bin/server;C:/Program Files/Java/jre1.8.0_181/bin;C:/Program Files/Java/jre1.8.0_181/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Brackets\command;C:\ProgramData\chocolatey\bin;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_161\bin;C:\Program Files\Apache\maven\apache-maven-3.5.3\bin;C:\Gradle\gradle-4.8\bin;C:\Spark\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Users\syad50\AppData\Local\atom\bin;C:\Users\syad50\AppData\Roaming\npm;C:\Users\syad50\Desktop;;.]
+2019-02-18 10:47:47.292  INFO 18704 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-18 10:47:47.292  INFO 18704 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2105 ms
+2019-02-18 10:47:47.855  INFO 18704 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-18 10:47:48.602 ERROR 18704 --- [main] org.apache.catalina.util.LifecycleBase   : Failed to start component [Connector[HTTP/1.1-8080]]
+
+org.apache.catalina.LifecycleException: Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1008) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:226) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.addPreviouslyRemovedConnectors(TomcatWebServer.java:259) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:197) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.startWebServer(ServletWebServerApplicationContext.java:311) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:164) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:552) [spring-context-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at com.pls.application.ParkingServiceApplication.main(ParkingServiceApplication.java:14) [classes/:na]
+Caused by: java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method) ~[na:1.8.0_181]
+	at sun.nio.ch.Net.bind(Unknown Source) ~[na:1.8.0_181]
+	at sun.nio.ch.Net.bind(Unknown Source) ~[na:1.8.0_181]
+	at sun.nio.ch.ServerSocketChannelImpl.bind(Unknown Source) ~[na:1.8.0_181]
+	at sun.nio.ch.ServerSocketAdaptor.bind(Unknown Source) ~[na:1.8.0_181]
+	at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:236) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1085) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:1171) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:568) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1005) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	... 14 common frames omitted
+
+2019-02-18 10:47:48.612  INFO 18704 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2019-02-18 10:47:48.622  INFO 18704 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-02-18 10:47:48.622 ERROR 18704 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The Tomcat connector configured to listen on port 8080 failed to start. The port may already be in use or the connector may be misconfigured.
+
+Action:
+
+Verify the connector's configuration, identify and stop any process that's listening on port 8080, or configure this application to listen on another port.
+
+2019-02-18 10:47:48.658  INFO 18704 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-02-18 10:48:09.577  INFO 12852 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-18 10:48:09.578  INFO 12852 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-02-18 10:48:09.589  INFO 12852 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 10 ms
+2019-02-18 10:48:42.558  INFO 7396 --- [main] c.p.a.ParkingServiceApplication          : Starting ParkingServiceApplication on WKWIN1612839 with PID 7396 (D:\Assignment\ParkingLot\ParkingLotSystem\target\classes started by suryadav0 in D:\Assignment\ParkingLot\ParkingLotSystem)
+2019-02-18 10:48:42.568  INFO 7396 --- [main] c.p.a.ParkingServiceApplication          : No active profile set, falling back to default profiles: default
+2019-02-18 10:48:43.521  INFO 7396 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-02-18 10:48:43.521  INFO 7396 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-02-18 10:48:43.552  INFO 7396 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 21ms. Found 0 repository interfaces.
+2019-02-18 10:48:44.621  INFO 7396 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-18 10:48:44.662  INFO 7396 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-18 10:48:44.665  INFO 7396 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-18 10:48:44.680  INFO 7396 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_181\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_181/bin/server;C:/Program Files/Java/jre1.8.0_181/bin;C:/Program Files/Java/jre1.8.0_181/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Brackets\command;C:\ProgramData\chocolatey\bin;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_161\bin;C:\Program Files\Apache\maven\apache-maven-3.5.3\bin;C:\Gradle\gradle-4.8\bin;C:\Spark\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Users\syad50\AppData\Local\atom\bin;C:\Users\syad50\AppData\Roaming\npm;C:\Users\syad50\Desktop;;.]
+2019-02-18 10:48:44.840  INFO 7396 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-18 10:48:44.840  INFO 7396 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2208 ms
+2019-02-18 10:48:45.361  INFO 7396 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-18 10:48:46.008  INFO 7396 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-18 10:48:46.018  INFO 7396 --- [main] c.p.a.ParkingServiceApplication          : Started ParkingServiceApplication in 3.921 seconds (JVM running for 4.781)
+2019-02-18 10:48:46.018  INFO 7396 --- [main] c.p.a.ParkingServiceApplication          : App Started
+2019-02-18 10:48:49.990  INFO 7396 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-18 10:48:49.990  INFO 7396 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-02-18 10:48:50.001  INFO 7396 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 11 ms
+2019-02-18 10:50:34.315  INFO 16352 --- [main] c.p.a.ParkingServiceApplication          : Starting ParkingServiceApplication on WKWIN1612839 with PID 16352 (D:\Assignment\ParkingLot\ParkingLotSystem\target\classes started by suryadav0 in D:\Assignment\ParkingLot\ParkingLotSystem)
+2019-02-18 10:50:34.318  INFO 16352 --- [main] c.p.a.ParkingServiceApplication          : No active profile set, falling back to default profiles: default
+2019-02-18 10:50:35.275  INFO 16352 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-02-18 10:50:35.275  INFO 16352 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-02-18 10:50:35.306  INFO 16352 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 21ms. Found 0 repository interfaces.
+2019-02-18 10:50:36.465  INFO 16352 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-18 10:50:36.509  INFO 16352 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-18 10:50:36.509  INFO 16352 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-18 10:50:36.519  INFO 16352 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_181\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_181/bin/server;C:/Program Files/Java/jre1.8.0_181/bin;C:/Program Files/Java/jre1.8.0_181/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Brackets\command;C:\ProgramData\chocolatey\bin;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_161\bin;C:\Program Files\Apache\maven\apache-maven-3.5.3\bin;C:\Gradle\gradle-4.8\bin;C:\Spark\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Users\syad50\AppData\Local\atom\bin;C:\Users\syad50\AppData\Roaming\npm;C:\Users\syad50\Desktop;;.]
+2019-02-18 10:50:36.649  INFO 16352 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-18 10:50:36.649  INFO 16352 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2260 ms
+2019-02-18 10:50:37.091  INFO 16352 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-18 10:50:37.564  INFO 16352 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-18 10:50:37.574  INFO 16352 --- [main] c.p.a.ParkingServiceApplication          : Started ParkingServiceApplication in 3.691 seconds (JVM running for 4.154)
+2019-02-18 10:50:37.574  INFO 16352 --- [main] c.p.a.ParkingServiceApplication          : App Started
+2019-02-18 10:50:41.141  INFO 16352 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-18 10:50:41.142  INFO 16352 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-02-18 10:50:41.148  INFO 16352 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2019-02-18 10:54:10.074  INFO 5564 --- [main] c.p.a.ParkingServiceApplication          : Starting ParkingServiceApplication on WKWIN1612839 with PID 5564 (D:\Assignment\ParkingLot\ParkingLotSystem\target\classes started by suryadav0 in D:\Assignment\ParkingLot\ParkingLotSystem)
+2019-02-18 10:54:10.074  INFO 5564 --- [main] c.p.a.ParkingServiceApplication          : No active profile set, falling back to default profiles: default
+2019-02-18 10:54:10.986  INFO 5564 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-02-18 10:54:10.988  INFO 5564 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-02-18 10:54:11.022  INFO 5564 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 15ms. Found 0 repository interfaces.
+2019-02-18 10:54:11.922  INFO 5564 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2019-02-18 10:54:11.955  INFO 5564 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-18 10:54:11.955  INFO 5564 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-18 10:54:11.965  INFO 5564 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_181\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_181/bin/server;C:/Program Files/Java/jre1.8.0_181/bin;C:/Program Files/Java/jre1.8.0_181/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Brackets\command;C:\ProgramData\chocolatey\bin;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_161\bin;C:\Program Files\Apache\maven\apache-maven-3.5.3\bin;C:\Gradle\gradle-4.8\bin;C:\Spark\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Users\syad50\AppData\Local\atom\bin;C:\Users\syad50\AppData\Roaming\npm;C:\Users\syad50\Desktop;;.]
+2019-02-18 10:54:12.147  INFO 5564 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-18 10:54:12.148  INFO 5564 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1996 ms
+2019-02-18 10:54:12.723  INFO 5564 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-18 10:54:13.225 ERROR 5564 --- [main] org.apache.catalina.util.LifecycleBase   : Failed to start component [Connector[HTTP/1.1-8090]]
+
+org.apache.catalina.LifecycleException: Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1008) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:226) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.addPreviouslyRemovedConnectors(TomcatWebServer.java:259) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:197) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.startWebServer(ServletWebServerApplicationContext.java:311) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:164) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:552) [spring-context-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at com.pls.application.ParkingServiceApplication.main(ParkingServiceApplication.java:14) [classes/:na]
+Caused by: java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method) ~[na:1.8.0_181]
+	at sun.nio.ch.Net.bind(Unknown Source) ~[na:1.8.0_181]
+	at sun.nio.ch.Net.bind(Unknown Source) ~[na:1.8.0_181]
+	at sun.nio.ch.ServerSocketChannelImpl.bind(Unknown Source) ~[na:1.8.0_181]
+	at sun.nio.ch.ServerSocketAdaptor.bind(Unknown Source) ~[na:1.8.0_181]
+	at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:236) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1085) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:1171) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:568) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1005) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	... 14 common frames omitted
+
+2019-02-18 10:54:13.235  INFO 5564 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2019-02-18 10:54:13.247  INFO 5564 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-02-18 10:54:13.247 ERROR 5564 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The Tomcat connector configured to listen on port 8090 failed to start. The port may already be in use or the connector may be misconfigured.
+
+Action:
+
+Verify the connector's configuration, identify and stop any process that's listening on port 8090, or configure this application to listen on another port.
+
+2019-02-18 10:54:13.267  INFO 5564 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-02-18 10:54:25.804  INFO 11988 --- [main] c.p.a.ParkingServiceApplication          : Starting ParkingServiceApplication on WKWIN1612839 with PID 11988 (D:\Assignment\ParkingLot\ParkingLotSystem\target\classes started by suryadav0 in D:\Assignment\ParkingLot\ParkingLotSystem)
+2019-02-18 10:54:25.807  INFO 11988 --- [main] c.p.a.ParkingServiceApplication          : No active profile set, falling back to default profiles: default
+2019-02-18 10:54:26.649  INFO 11988 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-02-18 10:54:26.649  INFO 11988 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-02-18 10:54:26.685  INFO 11988 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 13ms. Found 0 repository interfaces.
+2019-02-18 10:54:27.613  INFO 11988 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2019-02-18 10:54:27.643  INFO 11988 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-18 10:54:27.643  INFO 11988 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-18 10:54:27.653  INFO 11988 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_181\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_181/bin/server;C:/Program Files/Java/jre1.8.0_181/bin;C:/Program Files/Java/jre1.8.0_181/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Brackets\command;C:\ProgramData\chocolatey\bin;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_161\bin;C:\Program Files\Apache\maven\apache-maven-3.5.3\bin;C:\Gradle\gradle-4.8\bin;C:\Spark\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Users\syad50\AppData\Local\atom\bin;C:\Users\syad50\AppData\Roaming\npm;C:\Users\syad50\Desktop;;.]
+2019-02-18 10:54:27.824  INFO 11988 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-18 10:54:27.824  INFO 11988 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1946 ms
+2019-02-18 10:54:28.294  INFO 11988 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-18 10:54:28.791 ERROR 11988 --- [main] org.apache.catalina.util.LifecycleBase   : Failed to start component [Connector[HTTP/1.1-8090]]
+
+org.apache.catalina.LifecycleException: Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1008) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:226) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.addPreviouslyRemovedConnectors(TomcatWebServer.java:259) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:197) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.startWebServer(ServletWebServerApplicationContext.java:311) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:164) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:552) [spring-context-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at com.pls.application.ParkingServiceApplication.main(ParkingServiceApplication.java:14) [classes/:na]
+Caused by: java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method) ~[na:1.8.0_181]
+	at sun.nio.ch.Net.bind(Unknown Source) ~[na:1.8.0_181]
+	at sun.nio.ch.Net.bind(Unknown Source) ~[na:1.8.0_181]
+	at sun.nio.ch.ServerSocketChannelImpl.bind(Unknown Source) ~[na:1.8.0_181]
+	at sun.nio.ch.ServerSocketAdaptor.bind(Unknown Source) ~[na:1.8.0_181]
+	at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:236) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1085) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:1171) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:568) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1005) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	... 14 common frames omitted
+
+2019-02-18 10:54:28.791  INFO 11988 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2019-02-18 10:54:28.801  INFO 11988 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-02-18 10:54:28.801 ERROR 11988 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The Tomcat connector configured to listen on port 8090 failed to start. The port may already be in use or the connector may be misconfigured.
+
+Action:
+
+Verify the connector's configuration, identify and stop any process that's listening on port 8090, or configure this application to listen on another port.
+
+2019-02-18 10:54:28.812  INFO 11988 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-02-18 10:56:23.683  INFO 9740 --- [main] c.p.a.ParkingServiceApplication          : Starting ParkingServiceApplication on WKWIN1612839 with PID 9740 (D:\Assignment\ParkingLot\ParkingLotSystem\target\classes started by suryadav0 in D:\Assignment\ParkingLot\ParkingLotSystem)
+2019-02-18 10:56:23.686  INFO 9740 --- [main] c.p.a.ParkingServiceApplication          : No active profile set, falling back to default profiles: default
+2019-02-18 10:56:24.530  INFO 9740 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-02-18 10:56:24.530  INFO 9740 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-02-18 10:56:24.561  INFO 9740 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 21ms. Found 0 repository interfaces.
+2019-02-18 10:56:25.471  INFO 9740 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2019-02-18 10:56:25.499  INFO 9740 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-18 10:56:25.499  INFO 9740 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-18 10:56:25.509  INFO 9740 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_181\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_181/bin/server;C:/Program Files/Java/jre1.8.0_181/bin;C:/Program Files/Java/jre1.8.0_181/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Brackets\command;C:\ProgramData\chocolatey\bin;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_161\bin;C:\Program Files\Apache\maven\apache-maven-3.5.3\bin;C:\Gradle\gradle-4.8\bin;C:\Spark\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Users\syad50\AppData\Local\atom\bin;C:\Users\syad50\AppData\Roaming\npm;C:\Users\syad50\Desktop;;.]
+2019-02-18 10:56:25.649  INFO 9740 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-18 10:56:25.649  INFO 9740 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1897 ms
+2019-02-18 10:56:26.107  INFO 9740 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-18 10:56:26.709 ERROR 9740 --- [main] org.apache.catalina.util.LifecycleBase   : Failed to start component [Connector[HTTP/1.1-8090]]
+
+org.apache.catalina.LifecycleException: Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1008) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:226) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.addPreviouslyRemovedConnectors(TomcatWebServer.java:259) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:197) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.startWebServer(ServletWebServerApplicationContext.java:311) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:164) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:552) [spring-context-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at com.pls.application.ParkingServiceApplication.main(ParkingServiceApplication.java:14) [classes/:na]
+Caused by: java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method) ~[na:1.8.0_181]
+	at sun.nio.ch.Net.bind(Unknown Source) ~[na:1.8.0_181]
+	at sun.nio.ch.Net.bind(Unknown Source) ~[na:1.8.0_181]
+	at sun.nio.ch.ServerSocketChannelImpl.bind(Unknown Source) ~[na:1.8.0_181]
+	at sun.nio.ch.ServerSocketAdaptor.bind(Unknown Source) ~[na:1.8.0_181]
+	at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:236) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1085) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:1171) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:568) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1005) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	... 14 common frames omitted
+
+2019-02-18 10:56:26.716  INFO 9740 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2019-02-18 10:56:26.719  INFO 9740 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-02-18 10:56:26.719 ERROR 9740 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The Tomcat connector configured to listen on port 8090 failed to start. The port may already be in use or the connector may be misconfigured.
+
+Action:
+
+Verify the connector's configuration, identify and stop any process that's listening on port 8090, or configure this application to listen on another port.
+
+2019-02-18 10:56:26.739  INFO 9740 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-02-18 10:56:45.345  INFO 3148 --- [main] c.p.a.ParkingServiceApplication          : Starting ParkingServiceApplication on WKWIN1612839 with PID 3148 (D:\Assignment\ParkingLot\ParkingLotSystem\target\classes started by suryadav0 in D:\Assignment\ParkingLot\ParkingLotSystem)
+2019-02-18 10:56:45.349  INFO 3148 --- [main] c.p.a.ParkingServiceApplication          : No active profile set, falling back to default profiles: default
+2019-02-18 10:56:46.209  INFO 3148 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-02-18 10:56:46.214  INFO 3148 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-02-18 10:56:46.244  INFO 3148 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 20ms. Found 0 repository interfaces.
+2019-02-18 10:56:47.102  INFO 3148 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-18 10:56:47.133  INFO 3148 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-18 10:56:47.133  INFO 3148 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-18 10:56:47.143  INFO 3148 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_181\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_181/bin/server;C:/Program Files/Java/jre1.8.0_181/bin;C:/Program Files/Java/jre1.8.0_181/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Brackets\command;C:\ProgramData\chocolatey\bin;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_161\bin;C:\Program Files\Apache\maven\apache-maven-3.5.3\bin;C:\Gradle\gradle-4.8\bin;C:\Spark\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Users\syad50\AppData\Local\atom\bin;C:\Users\syad50\AppData\Roaming\npm;C:\Users\syad50\Desktop;;.]
+2019-02-18 10:56:47.335  INFO 3148 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-18 10:56:47.335  INFO 3148 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1911 ms
+2019-02-18 10:56:47.846  INFO 3148 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-18 10:56:48.446  INFO 3148 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-18 10:56:48.451  INFO 3148 --- [main] c.p.a.ParkingServiceApplication          : Started ParkingServiceApplication in 3.536 seconds (JVM running for 4.085)
+2019-02-18 10:56:48.454  INFO 3148 --- [main] c.p.a.ParkingServiceApplication          : App Started
+2019-02-18 10:56:55.924  INFO 3148 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-18 10:56:55.924  INFO 3148 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-02-18 10:56:55.936  INFO 3148 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 12 ms
+2019-02-18 10:59:22.347  INFO 11744 --- [main] c.p.a.ParkingServiceApplication          : Starting ParkingServiceApplication on WKWIN1612839 with PID 11744 (D:\Assignment\ParkingLot\ParkingLotSystem\target\classes started by suryadav0 in D:\Assignment\ParkingLot\ParkingLotSystem)
+2019-02-18 10:59:22.351  INFO 11744 --- [main] c.p.a.ParkingServiceApplication          : No active profile set, falling back to default profiles: default
+2019-02-18 10:59:23.198  INFO 11744 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-02-18 10:59:23.201  INFO 11744 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-02-18 10:59:23.234  INFO 11744 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 17ms. Found 0 repository interfaces.
+2019-02-18 10:59:24.159  INFO 11744 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-18 10:59:24.209  INFO 11744 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-18 10:59:24.209  INFO 11744 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-18 10:59:24.221  INFO 11744 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_181\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_181/bin/server;C:/Program Files/Java/jre1.8.0_181/bin;C:/Program Files/Java/jre1.8.0_181/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Brackets\command;C:\ProgramData\chocolatey\bin;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_161\bin;C:\Program Files\Apache\maven\apache-maven-3.5.3\bin;C:\Gradle\gradle-4.8\bin;C:\Spark\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Users\syad50\AppData\Local\atom\bin;C:\Users\syad50\AppData\Roaming\npm;C:\Users\syad50\Desktop;;.]
+2019-02-18 10:59:24.368  INFO 11744 --- [main] o.a.c.c.C.[.[localhost].[/parking]       : Initializing Spring embedded WebApplicationContext
+2019-02-18 10:59:24.371  INFO 11744 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1949 ms
+2019-02-18 10:59:24.818  INFO 11744 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-18 10:59:25.534  INFO 11744 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path '/parking'
+2019-02-18 10:59:25.540  INFO 11744 --- [main] c.p.a.ParkingServiceApplication          : Started ParkingServiceApplication in 3.643 seconds (JVM running for 4.099)
+2019-02-18 10:59:25.544  INFO 11744 --- [main] c.p.a.ParkingServiceApplication          : App Started
+2019-02-18 10:59:42.212  INFO 11744 --- [http-nio-8080-exec-3] o.a.c.c.C.[.[localhost].[/parking]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-18 10:59:42.213  INFO 11744 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-02-18 10:59:42.221  INFO 11744 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Completed initialization in 8 ms
+2019-02-18 11:10:05.631  INFO 9368 --- [main] c.p.a.ParkingServiceApplication          : Starting ParkingServiceApplication on WKWIN1612839 with PID 9368 (D:\Assignment\ParkingLot\ParkingLotSystem\target\classes started by suryadav0 in D:\Assignment\ParkingLot\ParkingLotSystem)
+2019-02-18 11:10:05.638  INFO 9368 --- [main] c.p.a.ParkingServiceApplication          : No active profile set, falling back to default profiles: default
+2019-02-18 11:10:06.455  INFO 9368 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-02-18 11:10:06.459  INFO 9368 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-02-18 11:10:06.491  INFO 9368 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 16ms. Found 0 repository interfaces.
+2019-02-18 11:10:07.439  INFO 9368 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-18 11:10:07.473  INFO 9368 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-18 11:10:07.474  INFO 9368 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-18 11:10:07.485  INFO 9368 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_181\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_181/bin/server;C:/Program Files/Java/jre1.8.0_181/bin;C:/Program Files/Java/jre1.8.0_181/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Brackets\command;C:\ProgramData\chocolatey\bin;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_161\bin;C:\Program Files\Apache\maven\apache-maven-3.5.3\bin;C:\Gradle\gradle-4.8\bin;C:\Spark\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Users\syad50\AppData\Local\atom\bin;C:\Users\syad50\AppData\Roaming\npm;C:\Users\syad50\Desktop;;.]
+2019-02-18 11:10:07.633  INFO 9368 --- [main] o.a.c.c.C.[.[localhost].[/parking]       : Initializing Spring embedded WebApplicationContext
+2019-02-18 11:10:07.633  INFO 9368 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1937 ms
+2019-02-18 11:10:08.123  INFO 9368 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-18 11:10:08.644  INFO 9368 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path '/parking'
+2019-02-18 11:10:08.646  INFO 9368 --- [main] c.p.a.ParkingServiceApplication          : Started ParkingServiceApplication in 3.448 seconds (JVM running for 3.912)
+2019-02-18 11:10:08.648  INFO 9368 --- [main] c.p.a.ParkingServiceApplication          : App Started
+2019-02-18 11:10:19.823  INFO 9368 --- [http-nio-8080-exec-1] o.a.c.c.C.[.[localhost].[/parking]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-18 11:10:19.824  INFO 9368 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-02-18 11:10:19.834  INFO 9368 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 10 ms
+2019-02-18 11:10:53.502  INFO 12980 --- [main] c.p.a.ParkingServiceApplication          : Starting ParkingServiceApplication on WKWIN1612839 with PID 12980 (D:\Assignment\ParkingLot\ParkingLotSystem\target\classes started by suryadav0 in D:\Assignment\ParkingLot\ParkingLotSystem)
+2019-02-18 11:10:53.506  INFO 12980 --- [main] c.p.a.ParkingServiceApplication          : No active profile set, falling back to default profiles: default
+2019-02-18 11:10:54.402  INFO 12980 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-02-18 11:10:54.405  INFO 12980 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-02-18 11:10:54.460  INFO 12980 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 35ms. Found 0 repository interfaces.
+2019-02-18 11:10:55.360  INFO 12980 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-18 11:10:55.397  INFO 12980 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-18 11:10:55.397  INFO 12980 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-18 11:10:55.410  INFO 12980 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_181\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_181/bin/server;C:/Program Files/Java/jre1.8.0_181/bin;C:/Program Files/Java/jre1.8.0_181/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Brackets\command;C:\ProgramData\chocolatey\bin;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_161\bin;C:\Program Files\Apache\maven\apache-maven-3.5.3\bin;C:\Gradle\gradle-4.8\bin;C:\Spark\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Users\syad50\AppData\Local\atom\bin;C:\Users\syad50\AppData\Roaming\npm;C:\Users\syad50\Desktop;;.]
+2019-02-18 11:10:55.569  INFO 12980 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-18 11:10:55.569  INFO 12980 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1993 ms
+2019-02-18 11:10:56.086  INFO 12980 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-18 11:10:56.667  INFO 12980 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-18 11:10:56.669  INFO 12980 --- [main] c.p.a.ParkingServiceApplication          : Started ParkingServiceApplication in 3.596 seconds (JVM running for 4.078)
+2019-02-18 11:10:56.671  INFO 12980 --- [main] c.p.a.ParkingServiceApplication          : App Started
+2019-02-18 11:11:14.134  INFO 12980 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-18 11:11:14.134  INFO 12980 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-02-18 11:11:14.153  INFO 12980 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 19 ms
+2019-02-18 11:14:07.978  INFO 6356 --- [main] c.p.a.ParkingServiceApplication          : Starting ParkingServiceApplication on WKWIN1612839 with PID 6356 (D:\Assignment\ParkingLot\ParkingLotSystem\target\classes started by suryadav0 in D:\Assignment\ParkingLot\ParkingLotSystem)
+2019-02-18 11:14:07.981  INFO 6356 --- [main] c.p.a.ParkingServiceApplication          : No active profile set, falling back to default profiles: default
+2019-02-18 11:14:09.064  INFO 6356 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-02-18 11:14:09.068  INFO 6356 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-02-18 11:14:09.103  INFO 6356 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 16ms. Found 0 repository interfaces.
+2019-02-18 11:14:10.019  INFO 6356 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-18 11:14:10.051  INFO 6356 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-18 11:14:10.052  INFO 6356 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-18 11:14:10.062  INFO 6356 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_181\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_181/bin/server;C:/Program Files/Java/jre1.8.0_181/bin;C:/Program Files/Java/jre1.8.0_181/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Brackets\command;C:\ProgramData\chocolatey\bin;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_161\bin;C:\Program Files\Apache\maven\apache-maven-3.5.3\bin;C:\Gradle\gradle-4.8\bin;C:\Spark\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Users\syad50\AppData\Local\atom\bin;C:\Users\syad50\AppData\Roaming\npm;C:\Users\syad50\Desktop;;.]
+2019-02-18 11:14:10.194  INFO 6356 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-18 11:14:10.194  INFO 6356 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2139 ms
+2019-02-18 11:14:10.671  INFO 6356 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-18 11:14:11.175  INFO 6356 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-18 11:14:11.179  INFO 6356 --- [main] c.p.a.ParkingServiceApplication          : Started ParkingServiceApplication in 3.649 seconds (JVM running for 4.118)
+2019-02-18 11:14:11.182  INFO 6356 --- [main] c.p.a.ParkingServiceApplication          : App Started
+2019-02-18 11:14:23.533  INFO 6356 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-18 11:14:23.534  INFO 6356 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-02-18 11:14:23.541  INFO 6356 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 7 ms
+2019-02-18 11:18:48.408  INFO 6832 --- [main] com.pls.ParkingServiceApplication        : Starting ParkingServiceApplication on WKWIN1612839 with PID 6832 (D:\Assignment\ParkingLot\ParkingLotSystem\target\classes started by suryadav0 in D:\Assignment\ParkingLot\ParkingLotSystem)
+2019-02-18 11:18:48.411  INFO 6832 --- [main] com.pls.ParkingServiceApplication        : No active profile set, falling back to default profiles: default
+2019-02-18 11:18:49.371  INFO 6832 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-02-18 11:18:49.371  INFO 6832 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-02-18 11:18:49.424  INFO 6832 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 32ms. Found 0 repository interfaces.
+2019-02-18 11:18:50.474  INFO 6832 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-18 11:18:50.510  INFO 6832 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-18 11:18:50.510  INFO 6832 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-18 11:18:50.521  INFO 6832 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_181\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_181/bin/server;C:/Program Files/Java/jre1.8.0_181/bin;C:/Program Files/Java/jre1.8.0_181/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Brackets\command;C:\ProgramData\chocolatey\bin;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_161\bin;C:\Program Files\Apache\maven\apache-maven-3.5.3\bin;C:\Gradle\gradle-4.8\bin;C:\Spark\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Users\syad50\AppData\Local\atom\bin;C:\Users\syad50\AppData\Roaming\npm;C:\Users\syad50\Desktop;;.]
+2019-02-18 11:18:50.661  INFO 6832 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-18 11:18:50.661  INFO 6832 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2179 ms
+2019-02-18 11:18:51.131  INFO 6832 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-18 11:18:51.628  INFO 6832 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-18 11:18:51.631  INFO 6832 --- [main] com.pls.ParkingServiceApplication        : Started ParkingServiceApplication in 3.664 seconds (JVM running for 4.115)
+2019-02-18 11:18:51.634  INFO 6832 --- [main] com.pls.ParkingServiceApplication        : App Started
+2019-02-18 11:18:58.888  INFO 6832 --- [http-nio-8080-exec-3] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-18 11:18:58.888  INFO 6832 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-02-18 11:18:58.896  INFO 6832 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Completed initialization in 8 ms
+2019-02-18 11:21:41.680  INFO 16320 --- [main] com.pls.ParkingServiceApplication        : Starting ParkingServiceApplication on WKWIN1612839 with PID 16320 (D:\Assignment\ParkingLot\ParkingLotSystem\target\classes started by suryadav0 in D:\Assignment\ParkingLot\ParkingLotSystem)
+2019-02-18 11:21:41.684  INFO 16320 --- [main] com.pls.ParkingServiceApplication        : No active profile set, falling back to default profiles: default
+2019-02-18 11:21:42.607  INFO 16320 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-02-18 11:21:42.611  INFO 16320 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-02-18 11:21:42.649  INFO 16320 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 21ms. Found 0 repository interfaces.
+2019-02-18 11:21:43.581  INFO 16320 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-18 11:21:43.613  INFO 16320 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-18 11:21:43.614  INFO 16320 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-18 11:21:43.627  INFO 16320 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_181\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_181/bin/server;C:/Program Files/Java/jre1.8.0_181/bin;C:/Program Files/Java/jre1.8.0_181/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Brackets\command;C:\ProgramData\chocolatey\bin;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_161\bin;C:\Program Files\Apache\maven\apache-maven-3.5.3\bin;C:\Gradle\gradle-4.8\bin;C:\Spark\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Users\syad50\AppData\Local\atom\bin;C:\Users\syad50\AppData\Roaming\npm;C:\Users\syad50\Desktop;;.]
+2019-02-18 11:21:43.775  INFO 16320 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-18 11:21:43.776  INFO 16320 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2023 ms
+2019-02-18 11:21:44.258  INFO 16320 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-18 11:21:44.772  INFO 16320 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-18 11:21:44.775  INFO 16320 --- [main] com.pls.ParkingServiceApplication        : Started ParkingServiceApplication in 3.621 seconds (JVM running for 4.091)
+2019-02-18 11:21:44.777  INFO 16320 --- [main] com.pls.ParkingServiceApplication        : App Started
+2019-02-18 11:21:54.599  INFO 16320 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-18 11:21:54.600  INFO 16320 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-02-18 11:21:54.605  INFO 16320 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2019-02-18 11:24:22.896  INFO 15700 --- [main] com.pls.ParkingServiceApplication        : Starting ParkingServiceApplication on WKWIN1612839 with PID 15700 (D:\Assignment\ParkingLot\ParkingLotSystem\target\classes started by suryadav0 in D:\Assignment\ParkingLot\ParkingLotSystem)
+2019-02-18 11:24:22.899  INFO 15700 --- [main] com.pls.ParkingServiceApplication        : No active profile set, falling back to default profiles: default
+2019-02-18 11:24:23.743  INFO 15700 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-02-18 11:24:23.755  INFO 15700 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-02-18 11:24:23.786  INFO 15700 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 20ms. Found 0 repository interfaces.
+2019-02-18 11:24:24.664  INFO 15700 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-18 11:24:24.689  INFO 15700 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-18 11:24:24.689  INFO 15700 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-18 11:24:24.699  INFO 15700 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_181\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_181/bin/server;C:/Program Files/Java/jre1.8.0_181/bin;C:/Program Files/Java/jre1.8.0_181/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Brackets\command;C:\ProgramData\chocolatey\bin;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_161\bin;C:\Program Files\Apache\maven\apache-maven-3.5.3\bin;C:\Gradle\gradle-4.8\bin;C:\Spark\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Users\syad50\AppData\Local\atom\bin;C:\Users\syad50\AppData\Roaming\npm;C:\Users\syad50\Desktop;;.]
+2019-02-18 11:24:24.840  INFO 15700 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-18 11:24:24.840  INFO 15700 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1869 ms
+2019-02-18 11:24:25.304  INFO 15700 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-18 11:24:25.829  INFO 15700 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-18 11:24:25.839  INFO 15700 --- [main] com.pls.ParkingServiceApplication        : Started ParkingServiceApplication in 3.356 seconds (JVM running for 3.875)
+2019-02-18 11:24:25.839  INFO 15700 --- [main] com.pls.ParkingServiceApplication        : App Started
+2019-02-18 11:24:43.756  INFO 15700 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-18 11:24:43.756  INFO 15700 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-02-18 11:24:43.764  INFO 15700 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 8 ms
+2019-02-18 11:25:34.874  INFO 10180 --- [main] com.pls.ParkingServiceApplication        : Starting ParkingServiceApplication on WKWIN1612839 with PID 10180 (D:\Assignment\ParkingLot\ParkingLotSystem\target\classes started by suryadav0 in D:\Assignment\ParkingLot\ParkingLotSystem)
+2019-02-18 11:25:34.879  INFO 10180 --- [main] com.pls.ParkingServiceApplication        : No active profile set, falling back to default profiles: default
+2019-02-18 11:25:36.129  INFO 10180 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-02-18 11:25:36.137  INFO 10180 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-02-18 11:25:36.190  INFO 10180 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 32ms. Found 0 repository interfaces.
+2019-02-18 11:25:37.216  INFO 10180 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-18 11:25:37.249  INFO 10180 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-18 11:25:37.250  INFO 10180 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-18 11:25:37.260  INFO 10180 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_181\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_181/bin/server;C:/Program Files/Java/jre1.8.0_181/bin;C:/Program Files/Java/jre1.8.0_181/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Brackets\command;C:\ProgramData\chocolatey\bin;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_161\bin;C:\Program Files\Apache\maven\apache-maven-3.5.3\bin;C:\Gradle\gradle-4.8\bin;C:\Spark\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Users\syad50\AppData\Local\atom\bin;C:\Users\syad50\AppData\Roaming\npm;C:\Users\syad50\Desktop;;.]
+2019-02-18 11:25:37.404  INFO 10180 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-18 11:25:37.404  INFO 10180 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2424 ms
+2019-02-18 11:25:37.862  INFO 10180 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-18 11:25:38.416  INFO 10180 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-18 11:25:38.416  INFO 10180 --- [main] com.pls.ParkingServiceApplication        : Started ParkingServiceApplication in 4.055 seconds (JVM running for 4.512)
+2019-02-18 11:25:38.416  INFO 10180 --- [main] com.pls.ParkingServiceApplication        : App Started
+2019-02-18 11:25:49.503  INFO 10180 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-18 11:25:49.503  INFO 10180 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-02-18 11:25:49.510  INFO 10180 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 7 ms
+2019-02-18 11:26:30.969  INFO 12704 --- [main] com.pls.ParkingServiceApplication        : Starting ParkingServiceApplication on WKWIN1612839 with PID 12704 (D:\Assignment\ParkingLot\ParkingLotSystem\target\classes started by suryadav0 in D:\Assignment\ParkingLot\ParkingLotSystem)
+2019-02-18 11:26:30.973  INFO 12704 --- [main] com.pls.ParkingServiceApplication        : No active profile set, falling back to default profiles: default
+2019-02-18 11:26:31.895  INFO 12704 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-02-18 11:26:31.899  INFO 12704 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-02-18 11:26:31.933  INFO 12704 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 21ms. Found 0 repository interfaces.
+2019-02-18 11:26:32.784  INFO 12704 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-18 11:26:32.815  INFO 12704 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-18 11:26:32.815  INFO 12704 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-18 11:26:32.835  INFO 12704 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_181\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_181/bin/server;C:/Program Files/Java/jre1.8.0_181/bin;C:/Program Files/Java/jre1.8.0_181/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Brackets\command;C:\ProgramData\chocolatey\bin;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_161\bin;C:\Program Files\Apache\maven\apache-maven-3.5.3\bin;C:\Gradle\gradle-4.8\bin;C:\Spark\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Users\syad50\AppData\Local\atom\bin;C:\Users\syad50\AppData\Roaming\npm;C:\Users\syad50\Desktop;;.]
+2019-02-18 11:26:33.034  INFO 12704 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-18 11:26:33.035  INFO 12704 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1980 ms
+2019-02-18 11:26:33.599  INFO 12704 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-18 11:26:34.164  INFO 12704 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-18 11:26:34.164  INFO 12704 --- [main] com.pls.ParkingServiceApplication        : Started ParkingServiceApplication in 3.615 seconds (JVM running for 4.068)
+2019-02-18 11:26:34.174  INFO 12704 --- [main] com.pls.ParkingServiceApplication        : App Started
+2019-02-18 11:26:46.703  INFO 12704 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-18 11:26:46.703  INFO 12704 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-02-18 11:26:46.716  INFO 12704 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 12 ms
+2019-02-18 11:28:15.780  INFO 10528 --- [main] com.pls.ParkingServiceApplication        : Starting ParkingServiceApplication on WKWIN1612839 with PID 10528 (D:\Assignment\ParkingLot\ParkingLotSystem\target\classes started by suryadav0 in D:\Assignment\ParkingLot\ParkingLotSystem)
+2019-02-18 11:28:15.788  INFO 10528 --- [main] com.pls.ParkingServiceApplication        : No active profile set, falling back to default profiles: default
+2019-02-18 11:28:16.809  INFO 10528 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-02-18 11:28:16.809  INFO 10528 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-02-18 11:28:16.857  INFO 10528 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 23ms. Found 0 repository interfaces.
+2019-02-18 11:28:17.991  INFO 10528 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-18 11:28:18.035  INFO 10528 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-18 11:28:18.036  INFO 10528 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-18 11:28:18.048  INFO 10528 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_181\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_181/bin/server;C:/Program Files/Java/jre1.8.0_181/bin;C:/Program Files/Java/jre1.8.0_181/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Brackets\command;C:\ProgramData\chocolatey\bin;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_161\bin;C:\Program Files\Apache\maven\apache-maven-3.5.3\bin;C:\Gradle\gradle-4.8\bin;C:\Spark\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Users\syad50\AppData\Local\atom\bin;C:\Users\syad50\AppData\Roaming\npm;C:\Users\syad50\Desktop;;.]
+2019-02-18 11:28:18.209  INFO 10528 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-18 11:28:18.209  INFO 10528 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2328 ms
+2019-02-18 11:28:18.799  INFO 10528 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-18 11:28:19.543  INFO 10528 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-18 11:28:19.549  INFO 10528 --- [main] com.pls.ParkingServiceApplication        : Started ParkingServiceApplication in 4.334 seconds (JVM running for 5.006)
+2019-02-18 11:28:19.552  INFO 10528 --- [main] com.pls.ParkingServiceApplication        : App Started
+2019-02-18 11:28:28.772  INFO 10528 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-18 11:28:28.773  INFO 10528 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-02-18 11:28:28.783  INFO 10528 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 10 ms
+2019-02-18 11:33:51.569  INFO 9376 --- [main] com.pls.ParkingServiceApplication        : Starting ParkingServiceApplication on WKWIN1612839 with PID 9376 (D:\Assignment\ParkingLot\ParkingLotSystem\target\classes started by suryadav0 in D:\Assignment\ParkingLot\ParkingLotSystem)
+2019-02-18 11:33:51.575  INFO 9376 --- [main] com.pls.ParkingServiceApplication        : No active profile set, falling back to default profiles: default
+2019-02-18 11:33:52.581  INFO 9376 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-02-18 11:33:52.591  INFO 9376 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-02-18 11:33:52.624  INFO 9376 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 22ms. Found 0 repository interfaces.
+2019-02-18 11:33:53.676  INFO 9376 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-18 11:33:53.701  INFO 9376 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-18 11:33:53.711  INFO 9376 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-18 11:33:53.721  INFO 9376 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_181\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_181/bin/server;C:/Program Files/Java/jre1.8.0_181/bin;C:/Program Files/Java/jre1.8.0_181/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Brackets\command;C:\ProgramData\chocolatey\bin;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_161\bin;C:\Program Files\Apache\maven\apache-maven-3.5.3\bin;C:\Gradle\gradle-4.8\bin;C:\Spark\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Users\syad50\AppData\Local\atom\bin;C:\Users\syad50\AppData\Roaming\npm;C:\Users\syad50\Desktop;;.]
+2019-02-18 11:33:53.862  INFO 9376 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-18 11:33:53.862  INFO 9376 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2199 ms
+2019-02-18 11:33:54.479  INFO 9376 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-18 11:33:55.201  INFO 9376 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-18 11:33:55.201  INFO 9376 --- [main] com.pls.ParkingServiceApplication        : Started ParkingServiceApplication in 4.149 seconds (JVM running for 4.689)
+2019-02-18 11:33:55.211  INFO 9376 --- [main] com.pls.ParkingServiceApplication        : App Started
+2019-02-18 11:34:00.879  INFO 9376 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-18 11:34:00.880  INFO 9376 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-02-18 11:34:00.889  INFO 9376 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 9 ms
+2019-02-18 11:34:47.604 ERROR 9376 --- [http-nio-8080-exec-6] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+
+java.lang.NullPointerException: null
+	at com.pls.service.ParkingService.unPark(ParkingService.java:153) ~[classes/:na]
+	at com.pls.controller.ParkingController.unParkVehicle(ParkingController.java:47) ~[classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_181]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_181]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_181]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.8.0_181]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:189) ~[spring-web-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138) ~[spring-web-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102) ~[spring-webmvc-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895) ~[spring-webmvc-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:800) ~[spring-webmvc-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038) ~[spring-webmvc-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942) ~[spring-webmvc-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005) ~[spring-webmvc-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:908) ~[spring-webmvc-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882) ~[spring-webmvc-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) ~[spring-web-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92) ~[spring-web-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93) ~[spring-web-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200) ~[spring-web-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:200) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [na:1.8.0_181]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [na:1.8.0_181]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at java.lang.Thread.run(Unknown Source) [na:1.8.0_181]
+
+2019-02-18 11:47:18.348  INFO 6008 --- [main] com.pls.ParkingServiceApplication        : Starting ParkingServiceApplication on WKWIN1612839 with PID 6008 (D:\Assignment\ParkingLot\ParkingLotSystem\target\classes started by suryadav0 in D:\Assignment\ParkingLot\ParkingLotSystem)
+2019-02-18 11:47:18.352  INFO 6008 --- [main] com.pls.ParkingServiceApplication        : No active profile set, falling back to default profiles: default
+2019-02-18 11:47:19.325  INFO 6008 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-02-18 11:47:19.330  INFO 6008 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-02-18 11:47:19.378  INFO 6008 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 26ms. Found 0 repository interfaces.
+2019-02-18 11:47:20.334  INFO 6008 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-18 11:47:20.364  INFO 6008 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-18 11:47:20.364  INFO 6008 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-18 11:47:20.383  INFO 6008 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_181\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_181/bin/server;C:/Program Files/Java/jre1.8.0_181/bin;C:/Program Files/Java/jre1.8.0_181/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Brackets\command;C:\ProgramData\chocolatey\bin;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_161\bin;C:\Program Files\Apache\maven\apache-maven-3.5.3\bin;C:\Gradle\gradle-4.8\bin;C:\Spark\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Users\syad50\AppData\Local\atom\bin;C:\Users\syad50\AppData\Roaming\npm;C:\Users\syad50\Desktop;;.]
+2019-02-18 11:47:20.532  INFO 6008 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-18 11:47:20.533  INFO 6008 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2127 ms
+2019-02-18 11:47:20.970  INFO 6008 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-18 11:47:21.472  INFO 6008 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-18 11:47:21.472  INFO 6008 --- [main] com.pls.ParkingServiceApplication        : Started ParkingServiceApplication in 3.583 seconds (JVM running for 4.037)
+2019-02-18 11:47:21.472  INFO 6008 --- [main] com.pls.ParkingServiceApplication        : App Started
+2019-02-18 11:47:28.128  INFO 6008 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-18 11:47:28.129  INFO 6008 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-02-18 11:47:28.139  INFO 6008 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 10 ms
+2019-02-18 11:48:29.355  INFO 10704 --- [main] com.pls.ParkingServiceApplication        : Starting ParkingServiceApplication on WKWIN1612839 with PID 10704 (D:\Assignment\ParkingLot\ParkingLotSystem\target\classes started by suryadav0 in D:\Assignment\ParkingLot\ParkingLotSystem)
+2019-02-18 11:48:29.355  INFO 10704 --- [main] com.pls.ParkingServiceApplication        : No active profile set, falling back to default profiles: default
+2019-02-18 11:48:30.323  INFO 10704 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-02-18 11:48:30.328  INFO 10704 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-02-18 11:48:30.357  INFO 10704 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 20ms. Found 0 repository interfaces.
+2019-02-18 11:48:31.272  INFO 10704 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-18 11:48:31.304  INFO 10704 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-18 11:48:31.305  INFO 10704 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-18 11:48:31.316  INFO 10704 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_181\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_181/bin/server;C:/Program Files/Java/jre1.8.0_181/bin;C:/Program Files/Java/jre1.8.0_181/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Brackets\command;C:\ProgramData\chocolatey\bin;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_161\bin;C:\Program Files\Apache\maven\apache-maven-3.5.3\bin;C:\Gradle\gradle-4.8\bin;C:\Spark\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Users\syad50\AppData\Local\atom\bin;C:\Users\syad50\AppData\Roaming\npm;C:\Users\syad50\Desktop;;.]
+2019-02-18 11:48:31.454  INFO 10704 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-18 11:48:31.454  INFO 10704 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1980 ms
+2019-02-18 11:48:31.929  INFO 10704 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-18 11:48:32.562  INFO 10704 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-18 11:48:32.563  INFO 10704 --- [main] com.pls.ParkingServiceApplication        : Started ParkingServiceApplication in 3.624 seconds (JVM running for 4.083)
+2019-02-18 11:48:32.563  INFO 10704 --- [main] com.pls.ParkingServiceApplication        : App Started
+2019-02-18 11:48:39.734  INFO 10704 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-18 11:48:39.734  INFO 10704 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-02-18 11:48:39.740  INFO 10704 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2019-02-18 15:18:23.079  WARN 13496 --- [main] ory$DuplicateJsonObjectContextCustomizer : 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/syad50/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/syad50/.m2/repository/org/json/json/20160212/json-20160212.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2019-02-18 15:18:23.209  INFO 13496 --- [main] c.pls.controller.ParkingControllerTests  : Starting ParkingControllerTests on WKWIN1612839 with PID 13496 (started by suryadav0 in D:\Assignment\ParkingLot\ParkingLotSystem)
+2019-02-18 15:18:23.209  INFO 13496 --- [main] c.pls.controller.ParkingControllerTests  : No active profile set, falling back to default profiles: default
+2019-02-18 15:18:23.518  INFO 13496 --- [main] c.pls.controller.ParkingControllerTests  : Started ParkingControllerTests in 0.733 seconds (JVM running for 1.853)
+2019-02-18 15:18:24.578  INFO 13496 --- [main] com.pls.controller.ParkingController     : Car [number=CAR-0001, vehicleType=CAR, color=BLUE, name=MARUTI SWIFT] found in VehicleInfoCache
+2019-02-18 15:18:24.610  INFO 13496 --- [main] com.pls.controller.ParkingController     : Car [number=BIKE-0001, vehicleType=BIKE, color=BLUE, name=MARUTI SWIFT] found in VehicleInfoCache
+2019-02-18 15:26:22.683  WARN 16820 --- [main] ory$DuplicateJsonObjectContextCustomizer : 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/syad50/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/syad50/.m2/repository/org/json/json/20160212/json-20160212.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2019-02-18 15:26:22.780  INFO 16820 --- [main] c.pls.controller.ParkingControllerTests  : Starting ParkingControllerTests on WKWIN1612839 with PID 16820 (started by suryadav0 in D:\Assignment\ParkingLot\ParkingLotSystem)
+2019-02-18 15:26:22.781  INFO 16820 --- [main] c.pls.controller.ParkingControllerTests  : No active profile set, falling back to default profiles: default
+2019-02-18 15:26:23.092  INFO 16820 --- [main] c.pls.controller.ParkingControllerTests  : Started ParkingControllerTests in 0.703 seconds (JVM running for 1.681)
+2019-02-18 15:26:23.360  INFO 16820 --- [main] com.pls.controller.ParkingController     : Car [number=CAR-0001, vehicleType=CAR, color=BLUE, name=MARUTI SWIFT] found in VehicleInfoCache
+2019-02-18 15:26:23.444  INFO 16820 --- [main] com.pls.controller.ParkingController     : Car [number=BIKE-0001, vehicleType=BIKE, color=BLUE, name=MARUTI SWIFT] found in VehicleInfoCache
+2019-02-18 15:29:16.717  WARN 4636 --- [main] ory$DuplicateJsonObjectContextCustomizer : 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/syad50/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/syad50/.m2/repository/org/json/json/20160212/json-20160212.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2019-02-18 15:29:16.749  INFO 4636 --- [main] c.pls.controller.ParkingControllerTests  : Starting ParkingControllerTests on WKWIN1612839 with PID 4636 (started by suryadav0 in D:\Assignment\ParkingLot\ParkingLotSystem)
+2019-02-18 15:29:16.750  INFO 4636 --- [main] c.pls.controller.ParkingControllerTests  : No active profile set, falling back to default profiles: default
+2019-02-18 15:29:17.012  INFO 4636 --- [main] c.pls.controller.ParkingControllerTests  : Started ParkingControllerTests in 0.585 seconds (JVM running for 1.603)
+2019-02-18 15:29:17.369  INFO 4636 --- [main] com.pls.controller.ParkingController     : Car [number=CAR-0001, vehicleType=CAR, color=BLUE, name=MARUTI SWIFT] found in VehicleInfoCache
+2019-02-18 15:29:17.416  INFO 4636 --- [main] com.pls.controller.ParkingController     : Car [number=BIKE-0001, vehicleType=BIKE, color=BLUE, name=MARUTI SWIFT] found in VehicleInfoCache
+2019-02-18 15:31:28.403  WARN 15952 --- [main] ory$DuplicateJsonObjectContextCustomizer : 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/syad50/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/syad50/.m2/repository/org/json/json/20160212/json-20160212.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2019-02-18 15:31:28.448  INFO 15952 --- [main] c.pls.controller.ParkingControllerTests  : Starting ParkingControllerTests on WKWIN1612839 with PID 15952 (started by suryadav0 in D:\Assignment\ParkingLot\ParkingLotSystem)
+2019-02-18 15:31:28.449  INFO 15952 --- [main] c.pls.controller.ParkingControllerTests  : No active profile set, falling back to default profiles: default
+2019-02-18 15:31:28.791  INFO 15952 --- [main] c.pls.controller.ParkingControllerTests  : Started ParkingControllerTests in 0.696 seconds (JVM running for 1.709)
+2019-02-18 15:31:29.085  INFO 15952 --- [main] com.pls.controller.ParkingController     : Car [number=CAR-0001, vehicleType=CAR, color=BLUE, name=MARUTI SWIFT] found in VehicleInfoCache
+2019-02-18 15:31:29.121  INFO 15952 --- [main] com.pls.controller.ParkingController     : Car [number=BIKE-0001, vehicleType=BIKE, color=BLUE, name=MARUTI SWIFT] found in VehicleInfoCache
